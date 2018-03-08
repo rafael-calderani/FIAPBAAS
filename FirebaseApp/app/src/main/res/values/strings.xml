@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase App</string>
+    <string name="password">Senha</string>
+    <string name="email">E-mail</string>
+    <string name="login">Login</string>
+    <string name="new_Account">Criar Conta</string>
+</resources>
